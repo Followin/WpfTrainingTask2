@@ -19,7 +19,7 @@ namespace WpfTrainingTask2.Views
 				Email = "FirstName_LastName@example.com",
 				FirstName = "First name",
 				LastName = "LastName",
-				PhotoPath = @"C:\Users\Pavlo_Yeremenko\Pictures\1464213943115558535.jpg"
+				PhotoPath = @"http://www.planwallpaper.com/static/images/cool-wallpaper-1.jpg"
 			});
 		}
 
